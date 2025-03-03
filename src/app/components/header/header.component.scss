@@ -3,10 +3,13 @@ header {
     color: white;
     padding: 10px;
     text-align: center;
-  }
-  
-  nav a {
+}
+nav a {
     color: white;
     margin: 0 10px;
     text-decoration: none;
-  }
+}
+active {
+    font-weight: bold;
+    text-decoration: underline;
+}
